@@ -1,4 +1,3 @@
-import Kiu7.DisemvowelTrolls as DisemvowelTrolls
+import Kiu7.VowelCount as VC
 
-print(DisemvowelTrolls.disemvowel("This website is for losers LOL!"))
-print(DisemvowelTrolls.disemvowel("Hello WOrld"))
+print(VC.getCount("Abracadabra"))

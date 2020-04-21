@@ -1,3 +1,4 @@
-import Kiu7.VowelCount as VC
+import Kiu7.GetTheMiddleCharacter as GT
 
-print(VC.getCount("Abracadabra"))
+print(GT.get_middle("hola"))
+print(GT.get_middle("holas"))

@@ -1,4 +1,3 @@
-import Kiu7.GetTheMiddleCharacter as GT
+import Kiu7.DebugSumDigitsNumber as GT
 
-print(GT.get_middle("hola"))
-print(GT.get_middle("holas"))
+print(GT.get_sum_of_digits(1234))

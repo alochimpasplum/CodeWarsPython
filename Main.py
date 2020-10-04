@@ -1,3 +1,3 @@
-import Kiu7.DebugSumDigitsNumber as GT
+import Kiu7.HighestAndLowest as GT
 
-print(GT.get_sum_of_digits(1234))
+print(GT.HighAndLowest("4 5 29 54 4 0 -214 542 -64 1 -3 6 -6"))
